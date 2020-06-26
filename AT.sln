@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AT_Cunha", "AT_Cunha.csproj", "{6BB26E2E-9CE4-4150-AA99-A887C53AEA9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AT_CSharp", "AT_CSharp.csproj", "{6BB26E2E-9CE4-4150-AA99-A887C53AEA9F}"
 	ProjectSection(ProjectDependencies) = postProject
 		{88FDA6DF-26E7-4F8D-BCF2-34642E34FC2F} = {88FDA6DF-26E7-4F8D-BCF2-34642E34FC2F}
 	EndProjectSection
